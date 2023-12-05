@@ -23,11 +23,11 @@ All the development and testing was runned over an operating system Ubuntu 20.04
          github, linux, python, Gun bash and git .
 # Installation
 
-   -- git clone https://github.com/gameliaprogrammer/AirBnB_clone.git --
+       git clone https://github.com/gameliaprogrammer/AirBnB_clone.git 
 
   change to the AirBnb directory and run the command:
 
-   --  ./console.py --
+        ./console.py 
 
 
 
