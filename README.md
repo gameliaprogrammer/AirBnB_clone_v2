@@ -17,4 +17,17 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
   Do operations on objects (count, compute stats, etc…)
   Update attributes of an object
   Destroy an object
+# Environment
+All the development and testing was runned over an operating system Ubuntu 20.04 LTS using programming language Python 3.8.3. The editors used were VIM 8.1.2269, VSCode 1.6.1 and Atom 1.58.0 . Control version using Git 2.25.1.
+## tools using in the project : 
+         github, linux, python, Gun bash and git .
+# Installation
+
+   -- git clone https://github.com/gameliaprogrammer/AirBnB_clone.git --
+
+  change to the AirBnb directory and run the command:
+
+   --  ./console.py --
+
+
 
