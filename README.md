@@ -21,5 +21,13 @@ All the development and testing was runned over an operating system Ubuntu 20.04
 
         ./console.py 
 
+# Testing
+All the tests are defined in the  tests  folder.
 
+## Documentation
+    Modules
+         python3 -c 'print(__import__("my_module").__doc__)'
 
+  Classes
+  
+       python3 -c 'print(__import__("my_module").MyClass.__doc__)'
